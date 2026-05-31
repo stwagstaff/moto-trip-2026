@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="HermesMotoTrip" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata><name>Day 1 - Sebastopol CA to Tonopah NV</name><desc>US-50 E via South Lake Tahoe, Alpine Village, Walker Lake to Tonopah NV. ~7h.</desc></metadata>
-  <wpt lat="38.3749018" lon="-122.8087704"><name>613 Sparkes Rd</name></wpt>
-  <wpt lat="38.661954" lon="-120.9371642"><name>Shingle Springs</name></wpt>
-  <wpt lat="38.8509526" lon="-120.0221797"><name>Meyers</name></wpt>
-  <wpt lat="38.7742988" lon="-119.821921"><name>Alpine Village</name></wpt>
-  <wpt lat="38.7611083" lon="-119.3852615"><name>Rosie's Place</name></wpt>
-  <wpt lat="38.6482535" lon="-118.7551395"><name>Walker Lake</name></wpt>
-  <wpt lat="38.069211" lon="-117.2305861"><name>Tonopah</name></wpt>
   <rte><name>Day 1 - Sebastopol CA to Tonopah NV</name>
   <rtept lat="38.3749018" lon="-122.8087704"><name>613 Sparkes Rd</name></rtept>
   <rtept lat="38.661954" lon="-120.9371642"><name>Shingle Springs</name></rtept>
