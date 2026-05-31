@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="HermesMotoTrip" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Day 1 - Sebastopol CA to Tonopah NV</name><desc>US-50 E via South Lake Tahoe, Alpine Village, Walker Lake to Tonopah NV. ~7h.</desc></metadata>
-  <rte><name>Day 1 - Sebastopol CA to Tonopah NV</name>
-  <rtept lat="38.3749018" lon="-122.8087704"><name>613 Sparkes Rd</name></rtept>
-  <rtept lat="38.661954" lon="-120.9371642"><name>Shingle Springs</name></rtept>
-  <rtept lat="38.8509526" lon="-120.0221797"><name>Meyers</name></rtept>
-  <rtept lat="38.7742988" lon="-119.821921"><name>Alpine Village</name></rtept>
-  <rtept lat="38.7611083" lon="-119.3852615"><name>Rosies Place</name></rtept>
-  <rtept lat="38.6482535" lon="-118.7551395"><name>Walker Lake</name></rtept>
-  <rtept lat="38.069211" lon="-117.2305861"><name>Tonopah</name></rtept>
+  <metadata><name>Day 1 - Sebastopol to Tonopah</name><desc>US-101 S, I-80 E, US-50 E via South Lake Tahoe, US-395 S, US-95 S to Tonopah</desc></metadata>
+  <rte><name>Day 1 - Sebastopol to Tonopah</name>
+  <rtept lat="38.37472" lon="-122.80882"><name>Sebastopol</name></rtept>
+  <rtept lat="38.1483" lon="-122.45321"><name>Vallejo</name></rtept>
+  <rtept lat="38.56059" lon="-121.45943"><name>Sacramento</name></rtept>
+  <rtept lat="38.66151" lon="-120.93708"><name>Shingle Springs</name></rtept>
+  <rtept lat="38.82172" lon="-120.07052"><name>South Lake Tahoe</name></rtept>
+  <rtept lat="38.74291" lon="-119.45258"><name>Minden NV</name></rtept>
+  <rtept lat="38.5334" lon="-118.53858"><name>Hawthorne NV</name></rtept>
+  <rtept lat="38.07059" lon="-117.23251"><name>Tonopah NV</name></rtept>
   </rte>
 </gpx>
