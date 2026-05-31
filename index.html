@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1a1a2e">
+  <title>Moto Trip 2026 — Route Guide</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #0f0f1a;
+      color: #e8e8f0;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+    header {
+      background: #1a1a2e;
+      border-bottom: 3px solid #e74c3c;
+      padding: 20px 16px 16px;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    header h1 {
+      font-size: 1.4rem;
+      color: #e74c3c;
+      letter-spacing: 1px;
+    }
+
+    header p {
+      font-size: 0.85rem;
+      color: #888;
+      margin-top: 2px;
+    }
+
+    .day-card {
+      margin: 16px;
+      background: #1a1a2e;
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid #2a2a4e;
+    }
+
+    .day-header {
+      padding: 16px;
+      background: #16213e;
+      border-bottom: 1px solid #2a2a4e;
+    }
+
+    .day-header h2 {
+      font-size: 1.1rem;
+      color: #e74c3c;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .subtitle {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: #fff;
+      margin-top: 4px;
+    }
+
+    .meta {
+      font-size: 0.85rem;
+      color: #aaa;
+      margin-top: 2px;
+    }
+
+    .day-body {
+      padding: 0;
+    }
+
+    .map-thumb {
+      width: 100%;
+      background: #0f0f1a;
+    }
+
+    .map-thumb img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .day-info {
+      padding: 14px 16px;
+    }
+
+    .roads, .fuel, .hazards {
+      font-size: 0.88rem;
+      color: #ccc;
+      margin-bottom: 8px;
+      line-height: 1.6;
+    }
+
+    .hazards {
+      color: #f39c12;
+    }
+
+    .links {
+      margin-top: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .nav-link {
+      display: block;
+      padding: 14px 18px;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      text-decoration: none;
+      text-align: center;
+      letter-spacing: 0.3px;
+    }
+
+    .nav-link:nth-child(1) { background: #2980b9; color: #fff; }
+    .nav-link:nth-child(2) { background: #27ae60; color: #fff; }
+    .nav-link:nth-child(3) { background: #8e44ad; color: #fff; }
+    .nav-link:nth-child(4) { background: #2c3e50; color: #fff; }
+    .nav-link:nth-child(5) { background: #34495e; color: #fff; }
+
+    .nav-link:active {
+      opacity: 0.8;
+      transform: scale(0.98);
+    }
+
+    .monitoring {
+      margin: 16px;
+      padding: 16px;
+      background: #1a1a2e;
+      border-radius: 12px;
+      border: 1px solid #2a2a4e;
+      font-size: 0.85rem;
+      color: #aaa;
+    }
+
+    .monitoring h3 {
+      color: #e74c3c;
+      margin-bottom: 8px;
+      font-size: 0.9rem;
+      text-transform: uppercase;
+    }
+
+    .monitoring p { margin-bottom: 6px; }
+
+    .monitoring a { color: #3498db; }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.75rem;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🏍 MOTO TRIP 2026</h1>
+  <p>Sean Wagstaff · Triumph Tiger 900 Rally · Updated by Hermes</p>
+</header>
+
+
+  <section class="day-card">
+    <div class="day-header">
+      <h2>DAY 1 — Mon Jun 2</h2>
+      <p class="subtitle">Sebastopol CA → Tonopah NV</p>
+      <p class="meta">430 mi · ~7.5h · Depart 9AM</p>
+    </div>
+    <div class="day-body">
+      <div class="map-thumb">
+        <img src="thumb_day1.png" alt="Route map DAY 1 — Mon Jun 2" loading="lazy">
+      </div>
+      <div class="day-info">
+        <p class="roads"><strong>Roads:</strong> I-80 E → US-50 E (Echo Summit) → US-395 S → Bishop CA → US-6 E → Tonopah NV</p>
+        <p class="fuel">⛽ <strong>Fuel:</strong> South Lake Tahoe CA · Bishop CA (last before Tonopah)</p>
+        <p class="hazards">⚠️ <strong>Hazards:</strong> Bishop: active construction 25-35mph flaggers</p>
+        <div class="links">
+
+        <a href="intent:https://drive.google.com/uc?export=download&id=1Lb3cm8gUOP_0cZrqu7JU3eNvnaZifRRp#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link">📍 Open in Calimoto</a>
+        <a href="https://www.google.com/maps/dir/?api=1&origin=Sebastopol%2C%20CA&destination=Tonopah%2C%20NV&waypoints=South%20Lake%20Tahoe%2C%20CA%7CBishop%2C%20CA&travelmode=driving" class="nav-link">🗺 Google Maps</a>
+        <a href="https://waze.com/ul?ll=38.0673,-117.2307&navigate=yes&zoom=17" class="nav-link">🚨 Waze</a>
+        <a href="https://drive.google.com/uc?export=download&id=1Lb3cm8gUOP_0cZrqu7JU3eNvnaZifRRp" class="nav-link">⬇ Download GPX</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="day-card">
+    <div class="day-header">
+      <h2>DAY 2 — Tue Jun 3</h2>
+      <p class="subtitle">Tonopah NV → Alamo NV (ET Highway)</p>
+      <p class="meta">161 mi · ~2.5h · Meet Ben's group</p>
+    </div>
+    <div class="day-body">
+      <div class="map-thumb">
+        <img src="thumb_day2.png" alt="Route map DAY 2 — Tue Jun 3" loading="lazy">
+      </div>
+      <div class="day-info">
+        <p class="roads"><strong>Roads:</strong> US-6 E → Warm Springs → NV-375 S (ET Hwy) → Rachel → US-93 S → Alamo</p>
+        <p class="fuel">⛽ <strong>Fuel:</strong> ⚠️ FILL UP IN TONOPAH — 161mi gap, Rachel unreliable</p>
+        <p class="hazards">⚠️ <strong>Hazards:</strong> NV-375: free-range cattle at dawn/dusk · US-93 near Alamo: fresh chip seal</p>
+        <div class="links">
+
+        <a href="intent:https://drive.google.com/uc?export=download&id=1-aICmmBUKTu_DU2vIkMqgTzPwqAry1wN#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link">📍 Open in Calimoto</a>
+        <a href="https://www.google.com/maps/dir/?api=1&origin=Tonopah%2C%20NV&destination=Alamo%2C%20NV&waypoints=Rachel%2C%20NV&travelmode=driving" class="nav-link">🗺 Google Maps</a>
+        <a href="https://waze.com/ul?ll=37.3649,-115.1638&navigate=yes&zoom=17" class="nav-link">🚨 Waze</a>
+        <a href="https://drive.google.com/uc?export=download&id=1-aICmmBUKTu_DU2vIkMqgTzPwqAry1wN" class="nav-link">⬇ Download GPX</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="day-card">
+    <div class="day-header">
+      <h2>DAY 3 — Wed Jun 4 · Segment 1</h2>
+      <p class="subtitle">Alamo NV → Panguitch UT</p>
+      <p class="meta">~150 mi · ~4h</p>
+    </div>
+    <div class="day-body">
+      <div class="map-thumb">
+        <img src="thumb_day3a.png" alt="Route map DAY 3 — Wed Jun 4 · Segment 1" loading="lazy">
+      </div>
+      <div class="day-info">
+        <p class="roads"><strong>Roads:</strong> US-93 N → Caliente → NV-319 at Panaca → Enterprise UT → Cedar City → UT-14 E (NOT I-15) → Duck Creek Village → US-89 N → Panguitch</p>
+        <p class="fuel">⛽ <strong>Fuel:</strong> Caliente NV · Cedar City UT</p>
+        <p class="hazards">⚠️ <strong>Hazards:</strong> Cedar City: UT-14 EAST not I-15 · Duck Creek: turn US-89 NORTH</p>
+        <div class="links">
+
+        <a href="intent:https://drive.google.com/uc?export=download&id=1VsZDtWlPEdNoj4mFgg0xMIH2SjfZzrqJ#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link">📍 Open in Calimoto</a>
+        <a href="https://www.google.com/maps/dir/?api=1&origin=Alamo%2C%20NV&destination=Panguitch%2C%20UT&waypoints=Caliente%2C%20NV%7CPanaca%2C%20NV%7CEnterprise%2C%20UT%7CCedar%20City%2C%20UT%7CDuck%20Creek%20Village%2C%20UT&travelmode=driving" class="nav-link">🗺 Google Maps</a>
+        <a href="https://waze.com/ul?ll=37.8271,-112.4341&navigate=yes&zoom=17" class="nav-link">🚨 Waze</a>
+        <a href="https://www.google.com/maps/d/viewer?mid=1RwIcTOuqK5uFqpWso-GRknBuikj8FQY" class="nav-link">🗺 Ben's Map</a>
+        <a href="https://drive.google.com/uc?export=download&id=1VsZDtWlPEdNoj4mFgg0xMIH2SjfZzrqJ" class="nav-link">⬇ Download GPX</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="day-card">
+    <div class="day-header">
+      <h2>DAY 3 — Wed Jun 4 · Segment 2</h2>
+      <p class="subtitle">Panguitch UT → Capitol Reef NP</p>
+      <p class="meta">~150 mi · ~4h</p>
+    </div>
+    <div class="day-body">
+      <div class="map-thumb">
+        <img src="thumb_day3b.png" alt="Route map DAY 3 — Wed Jun 4 · Segment 2" loading="lazy">
+      </div>
+      <div class="day-info">
+        <p class="roads"><strong>Roads:</strong> US-89 N → UT-12 E (scenic byway) → Escalante → Boulder → Torrey → UT-24 W → Capitol Reef</p>
+        <p class="fuel">⛽ <strong>Fuel:</strong> Panguitch UT (start) · Torrey UT</p>
+        <p class="hazards">⚠️ <strong>Hazards:</strong> UT-12 winding mountain road · UT-24 construction Mon-Fri 7AM-6PM</p>
+        <div class="links">
+
+        <a href="intent:https://drive.google.com/uc?export=download&id=1HOwl9FkcXn3Rvw4Zb6oh_WyluJ_w_dU5#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link">📍 Open in Calimoto</a>
+        <a href="https://www.google.com/maps/dir/?api=1&origin=Panguitch%2C%20UT&destination=Capitol%20Reef%20National%20Park%2C%20Utah&waypoints=Escalante%2C%20UT%7CBoulder%2C%20UT%7CTorrey%2C%20UT&travelmode=driving" class="nav-link">🗺 Google Maps</a>
+        <a href="https://waze.com/ul?ll=38.0834,-111.1264&navigate=yes&zoom=17" class="nav-link">🚨 Waze</a>
+        <a href="https://www.google.com/maps/d/viewer?mid=1RwIcTOuqK5uFqpWso-GRknBuikj8FQY" class="nav-link">🗺 Ben's Map</a>
+        <a href="https://drive.google.com/uc?export=download&id=1HOwl9FkcXn3Rvw4Zb6oh_WyluJ_w_dU5" class="nav-link">⬇ Download GPX</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="day-card">
+    <div class="day-header">
+      <h2>DAY 4 — Thu Jun 5</h2>
+      <p class="subtitle">Capitol Reef UT → Valley of the Gods</p>
+      <p class="meta">~180 mi · ~3.5h · Scenic half-day</p>
+    </div>
+    <div class="day-body">
+      <div class="map-thumb">
+        <img src="thumb_day4.png" alt="Route map DAY 4 — Thu Jun 5" loading="lazy">
+      </div>
+      <div class="day-info">
+        <p class="roads"><strong>Roads:</strong> UT-24 E → Hanksville → UT-95 S (Bicentennial Hwy) → UT-261 S → Valley of the Gods</p>
+        <p class="fuel">⛽ <strong>Fuel:</strong> Hanksville UT — LAST fuel before remote UT-95</p>
+        <p class="hazards">⚠️ <strong>Hazards:</strong> Moki Dugway (UT-261): 3mi unpaved switchbacks, IMPASSABLE WET · Valley of Gods: 17mi gravel loop, dry only</p>
+        <div class="links">
+
+        <a href="intent:https://drive.google.com/uc?export=download&id=1kUOfczyArsg-cqxpLssr2JZI6-0xniYR#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link">📍 Open in Calimoto</a>
+        <a href="https://www.google.com/maps/dir/?api=1&origin=Capitol%20Reef%20National%20Park%2C%20Utah&destination=Valley%20of%20the%20Gods%2C%20UT&waypoints=Hanksville%2C%20UT&travelmode=driving" class="nav-link">🗺 Google Maps</a>
+        <a href="https://waze.com/ul?ll=37.2261,-109.9136&navigate=yes&zoom=17" class="nav-link">🚨 Waze</a>
+        <a href="https://drive.google.com/uc?export=download&id=1kUOfczyArsg-cqxpLssr2JZI6-0xniYR" class="nav-link">⬇ Download GPX</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="monitoring">
+  <h3>📡 Live Monitoring</h3>
+  <p>Road conditions checked every 3h (7AM–7PM) → Telegram alerts</p>
+  <p>Location tracked via inReach MapShare every 15min</p>
+  <p><a href="https://share.garmin.com/KQYZ8">MapShare: share.garmin.com/KQYZ8</a></p>
+  <p style="margin-top:10px;color:#888;">On ride day: send Hermes your location via Telegram for live-start updated links.</p>
+</section>
+
+<footer>Updated automatically · stwagstaff/moto-trip-2026</footer>
+
+</body>
+</html>

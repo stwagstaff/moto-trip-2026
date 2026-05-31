@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Day 1 — Sebastopol CA → Tonopah NV</name>
+    <desc>I-80 E → US-50 E over Echo Summit → US-395 S → Bishop → US-6 E → Tonopah NV. ~430mi ~7.5h.</desc>
+    <time>2026-05-31T07:40:33Z</time>
+  </metadata>
+  <rte>
+    <name>Day 1 — Sebastopol CA → Tonopah NV</name>
+    <desc>I-80 E → US-50 E over Echo Summit → US-395 S → Bishop → US-6 E → Tonopah NV. ~430mi ~7.5h.</desc>
+  <rtept lat="38.4022" lon="-122.836"><name>Sebastopol CA</name></rtept>
+  <rtept lat="38.9399" lon="-119.9772"><name>South Lake Tahoe CA</name></rtept>
+  <rtept lat="37.3635" lon="-118.3952"><name>Bishop CA</name></rtept>
+  <rtept lat="38.0673" lon="-117.2307"><name>Tonopah NV</name></rtept>
+  </rte>
+</gpx>

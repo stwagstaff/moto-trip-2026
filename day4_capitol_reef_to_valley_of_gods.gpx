@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Day 4 — Capitol Reef → Valley of the Gods</name>
+    <desc>UT-24 E → Hanksville → UT-95 S (Bicentennial Hwy) → UT-261 S → Valley of the Gods. ~180mi ~3.5h.</desc>
+    <time>2026-05-31T07:40:33Z</time>
+  </metadata>
+  <rte>
+    <name>Day 4 — Capitol Reef → Valley of the Gods</name>
+    <desc>UT-24 E → Hanksville → UT-95 S (Bicentennial Hwy) → UT-261 S → Valley of the Gods. ~180mi ~3.5h.</desc>
+  <rtept lat="38.0834" lon="-111.1264"><name>Capitol Reef NP UT</name></rtept>
+  <rtept lat="38.3699" lon="-110.7143"><name>Hanksville UT</name></rtept>
+  <rtept lat="37.6014" lon="-109.9818"><name>Natural Bridges NM UT</name></rtept>
+  <rtept lat="37.2261" lon="-109.9136"><name>Valley of the Gods UT</name></rtept>
+  </rte>
+</gpx>

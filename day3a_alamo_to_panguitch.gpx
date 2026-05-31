@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Day 3 Seg 1 — Alamo NV → Panguitch UT</name>
+    <desc>US-93 N → Caliente → NV-319 at Panaca → Enterprise UT → Cedar City → UT-14 E → Duck Creek Village → US-89 N → Panguitch. ~150mi ~4h.</desc>
+    <time>2026-05-31T07:40:33Z</time>
+  </metadata>
+  <rte>
+    <name>Day 3 Seg 1 — Alamo NV → Panguitch UT</name>
+    <desc>US-93 N → Caliente → NV-319 at Panaca → Enterprise UT → Cedar City → UT-14 E → Duck Creek Village → US-89 N → Panguitch. ~150mi ~4h.</desc>
+  <rtept lat="37.3649" lon="-115.1638"><name>Alamo NV</name></rtept>
+  <rtept lat="37.6155" lon="-114.512"><name>Caliente NV</name></rtept>
+  <rtept lat="37.7893" lon="-114.3897"><name>Panaca NV</name></rtept>
+  <rtept lat="37.5741" lon="-113.7186"><name>Enterprise UT</name></rtept>
+  <rtept lat="37.6775" lon="-113.0619"><name>Cedar City UT</name></rtept>
+  <rtept lat="37.5254" lon="-112.6679"><name>Duck Creek Village UT</name></rtept>
+  <rtept lat="37.8271" lon="-112.4341"><name>Panguitch UT</name></rtept>
+  </rte>
+</gpx>

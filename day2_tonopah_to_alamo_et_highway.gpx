@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Day 2 — Tonopah NV → Alamo NV (ET Highway)</name>
+    <desc>US-6 E → NV-375 S (Extraterrestrial Highway) → US-93 S → Alamo NV. ~161mi ~2.5h. FILL UP IN TONOPAH.</desc>
+    <time>2026-05-31T07:40:33Z</time>
+  </metadata>
+  <rte>
+    <name>Day 2 — Tonopah NV → Alamo NV (ET Highway)</name>
+    <desc>US-6 E → NV-375 S (Extraterrestrial Highway) → US-93 S → Alamo NV. ~161mi ~2.5h. FILL UP IN TONOPAH.</desc>
+  <rtept lat="38.0673" lon="-117.2307"><name>Tonopah NV</name></rtept>
+  <rtept lat="38.1686" lon="-116.3733"><name>Warm Springs NV</name></rtept>
+  <rtept lat="37.6475" lon="-115.743"><name>Rachel NV</name></rtept>
+  <rtept lat="37.4433" lon="-115.1538"><name>Crystal Springs NV</name></rtept>
+  <rtept lat="37.3649" lon="-115.1638"><name>Alamo NV</name></rtept>
+  </rte>
+</gpx>
