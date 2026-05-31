@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Day 3 - Capitol Reef to Valley of the Gods</name><desc>UT-24 E to Hanksville, UT-95 S Bicentennial Hwy, UT-261 S Moki Dugway to Valley of Gods. 153mi.</desc></metadata>
+  <rte><name>Day 3 - Capitol Reef to Valley of the Gods</name>
+  <rtept lat="38.08343" lon="-111.12643"><name>Capitol Reef NP</name></rtept>
+  <rtept lat="38.3719" lon="-110.7139"><name>Hanksville UT</name></rtept>
+  <rtept lat="37.9778" lon="-110.6993"><name>UT-95 S turnoff</name></rtept>
+  <rtept lat="37.6006" lon="-110.0065"><name>Natural Bridges</name></rtept>
+  <rtept lat="37.2857" lon="-109.9931"><name>UT-261 S turnoff</name></rtept>
+  <rtept lat="37.2261" lon="-109.9136"><name>Valley of the Gods</name></rtept>
+  </rte>
+</gpx>
