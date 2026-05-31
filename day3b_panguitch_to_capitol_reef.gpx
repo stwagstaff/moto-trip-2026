@@ -4,17 +4,21 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Day 3 Seg 2 — Panguitch UT → Capitol Reef</name>
-    <desc>US-89 N → UT-12 E (scenic byway) → Escalante → Boulder → Torrey → UT-24 W → Capitol Reef NP. ~150mi ~4h.</desc>
-    <time>2026-05-31T07:40:33Z</time>
+    <name>Day 3 Seg 2 - Panguitch UT to Capitol Reef NP</name>
+    <desc>US-89 N then UT-12 E scenic byway through Escalante and Boulder then Torrey then UT-24 W to Capitol Reef NP. ~150mi ~4h.</desc>
+    <time>2026-05-31T08:49:31Z</time>
   </metadata>
+  <wpt lat="37.8271" lon="-112.4341"><name>Panguitch UT</name></wpt>
+  <wpt lat="37.7685" lon="-111.5994"><name>Escalante UT</name></wpt>
+  <wpt lat="37.9135" lon="-111.4241"><name>Boulder UT</name></wpt>
+  <wpt lat="38.3003" lon="-111.4177"><name>Torrey UT</name></wpt>
+  <wpt lat="38.0834" lon="-111.1264"><name>Capitol Reef NP</name></wpt>
   <rte>
-    <name>Day 3 Seg 2 — Panguitch UT → Capitol Reef</name>
-    <desc>US-89 N → UT-12 E (scenic byway) → Escalante → Boulder → Torrey → UT-24 W → Capitol Reef NP. ~150mi ~4h.</desc>
+    <name>Day 3 Seg 2 - Panguitch UT to Capitol Reef NP</name>
   <rtept lat="37.8271" lon="-112.4341"><name>Panguitch UT</name></rtept>
   <rtept lat="37.7685" lon="-111.5994"><name>Escalante UT</name></rtept>
   <rtept lat="37.9135" lon="-111.4241"><name>Boulder UT</name></rtept>
   <rtept lat="38.3003" lon="-111.4177"><name>Torrey UT</name></rtept>
-  <rtept lat="38.0834" lon="-111.1264"><name>Capitol Reef NP UT</name></rtept>
+  <rtept lat="38.0834" lon="-111.1264"><name>Capitol Reef NP</name></rtept>
   </rte>
 </gpx>

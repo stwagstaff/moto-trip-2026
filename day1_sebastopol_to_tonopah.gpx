@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="HermesMotoTrip"
-  xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Day 1 — Sebastopol CA → Tonopah NV</name><desc>I-80 E → US-50 E → Fallon NV → US-95 S → Hawthorne NV (Walker Lake) → Tonopah NV. ~466mi ~7.5h.</desc>
-  <time>2026-05-31T08:38:28Z</time></metadata>
-  <rte><name>Day 1 — Sebastopol CA → Tonopah NV</name><desc>I-80 E → US-50 E → Fallon NV → US-95 S → Hawthorne NV (Walker Lake) → Tonopah NV. ~466mi ~7.5h.</desc>
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Day 1 - Sebastopol CA to Tonopah NV</name>
+    <desc>I-80 E then US-50 E to Fallon NV then US-95 S via Hawthorne NV (Walker Lake) to Tonopah NV. 466mi ~7.5h.</desc>
+    <time>2026-05-31T08:49:31Z</time>
+  </metadata>
+  <wpt lat="38.4022" lon="-122.836"><name>Sebastopol CA</name></wpt>
+  <wpt lat="39.4735" lon="-118.7774"><name>Fallon NV</name></wpt>
+  <wpt lat="38.5268" lon="-118.6254"><name>Hawthorne NV</name></wpt>
+  <wpt lat="38.0673" lon="-117.2307"><name>Tonopah NV</name></wpt>
+  <rte>
+    <name>Day 1 - Sebastopol CA to Tonopah NV</name>
   <rtept lat="38.4022" lon="-122.836"><name>Sebastopol CA</name></rtept>
   <rtept lat="39.4735" lon="-118.7774"><name>Fallon NV</name></rtept>
   <rtept lat="38.5268" lon="-118.6254"><name>Hawthorne NV</name></rtept>

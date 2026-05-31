@@ -4,16 +4,19 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Day 4 — Capitol Reef → Valley of the Gods</name>
-    <desc>UT-24 E → Hanksville → UT-95 S (Bicentennial Hwy) → UT-261 S → Valley of the Gods. ~180mi ~3.5h.</desc>
-    <time>2026-05-31T07:40:33Z</time>
+    <name>Day 4 - Capitol Reef UT to Valley of the Gods</name>
+    <desc>UT-24 E to Hanksville then UT-95 S (Bicentennial Hwy) then UT-261 S to Valley of the Gods. ~180mi ~3.5h.</desc>
+    <time>2026-05-31T08:49:31Z</time>
   </metadata>
+  <wpt lat="38.0834" lon="-111.1264"><name>Capitol Reef NP</name></wpt>
+  <wpt lat="38.3699" lon="-110.7143"><name>Hanksville UT</name></wpt>
+  <wpt lat="37.6014" lon="-109.9818"><name>Natural Bridges area UT</name></wpt>
+  <wpt lat="37.2261" lon="-109.9136"><name>Valley of the Gods UT</name></wpt>
   <rte>
-    <name>Day 4 — Capitol Reef → Valley of the Gods</name>
-    <desc>UT-24 E → Hanksville → UT-95 S (Bicentennial Hwy) → UT-261 S → Valley of the Gods. ~180mi ~3.5h.</desc>
-  <rtept lat="38.0834" lon="-111.1264"><name>Capitol Reef NP UT</name></rtept>
+    <name>Day 4 - Capitol Reef UT to Valley of the Gods</name>
+  <rtept lat="38.0834" lon="-111.1264"><name>Capitol Reef NP</name></rtept>
   <rtept lat="38.3699" lon="-110.7143"><name>Hanksville UT</name></rtept>
-  <rtept lat="37.6014" lon="-109.9818"><name>Natural Bridges NM UT</name></rtept>
+  <rtept lat="37.6014" lon="-109.9818"><name>Natural Bridges area UT</name></rtept>
   <rtept lat="37.2261" lon="-109.9136"><name>Valley of the Gods UT</name></rtept>
   </rte>
 </gpx>
