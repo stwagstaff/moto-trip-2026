@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+  creator="moto-trip-2026"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 2 Seg1 Tonopah to Alamo ET Hwy Track</name></metadata>
+  <trk>
+    <name>Day 2 Seg1 Tonopah to Alamo ET Hwy Track</name>
+    <trkseg>
+      <trkpt lat="38.067300" lon="-117.230700"/>
+      <trkpt lat="38.168600" lon="-116.373300"/>
+      <trkpt lat="37.647500" lon="-115.743000"/>
+      <trkpt lat="37.443300" lon="-115.153800"/>
+      <trkpt lat="37.364900" lon="-115.163800"/>
+    </trkseg>
+  </trk>
+</gpx>

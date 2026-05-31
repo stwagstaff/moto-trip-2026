@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+  creator="moto-trip-2026"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 3 Capitol Reef to Valley of the Gods</name></metadata>
+  <wpt lat="38.0834" lon="-111.1264">
+    <name>Capitol Reef NP</name>
+  </wpt>
+  <wpt lat="38.3699" lon="-110.7143">
+    <name>Hanksville UT</name>
+  </wpt>
+  <wpt lat="37.6014" lon="-109.9818">
+    <name>Natural Bridges area UT</name>
+  </wpt>
+  <wpt lat="37.2261" lon="-109.9136">
+    <name>Valley of the Gods UT</name>
+  </wpt>
+  <rte>
+    <name>Day 3 Capitol Reef to Valley of the Gods</name>
+    <rtept lat="38.0834" lon="-111.1264">
+      <name>Capitol Reef NP</name>
+    </rtept>
+    <rtept lat="38.140700" lon="-111.043980"/>
+    <rtept lat="38.198000" lon="-110.961560"/>
+    <rtept lat="38.255300" lon="-110.879140"/>
+    <rtept lat="38.312600" lon="-110.796720"/>
+    <rtept lat="38.3699" lon="-110.7143">
+      <name>Hanksville UT</name>
+    </rtept>
+    <rtept lat="38.216200" lon="-110.567800"/>
+    <rtept lat="38.062500" lon="-110.421300"/>
+    <rtept lat="37.908800" lon="-110.274800"/>
+    <rtept lat="37.755100" lon="-110.128300"/>
+    <rtept lat="37.6014" lon="-109.9818">
+      <name>Natural Bridges area UT</name>
+    </rtept>
+    <rtept lat="37.526340" lon="-109.968160"/>
+    <rtept lat="37.451280" lon="-109.954520"/>
+    <rtept lat="37.376220" lon="-109.940880"/>
+    <rtept lat="37.301160" lon="-109.927240"/>
+    <rtept lat="37.2261" lon="-109.9136">
+      <name>Valley of the Gods UT</name>
+    </rtept>
+  </rte>
+</gpx>

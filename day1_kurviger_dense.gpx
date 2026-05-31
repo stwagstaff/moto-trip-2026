@@ -1,122 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="HermesMotoTrip"
+<gpx version="1.1"
+  creator="moto-trip-2026"
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>Day 1 - Sebastopol to Tonopah</name><desc>US-101 S, I-80 E, US-50 E, sharp right Meyers, US-395 S, US-95 S to Tonopah.</desc><time>2026-05-31T19:15:20Z</time></metadata>
-  <wpt lat="38.374902" lon="-122.808770"><name>613 Sparkes Rd</name></wpt>
-  <wpt lat="38.179940" lon="-122.531760"></wpt>
-  <wpt lat="38.163100" lon="-122.208800"></wpt>
-  <wpt lat="38.410200" lon="-121.905180"></wpt>
-  <wpt lat="38.571280" lon="-121.325180"></wpt>
-  <wpt lat="38.661954" lon="-120.937164"><name>Shingle Springs</name></wpt>
-  <wpt lat="38.731450" lon="-120.752690"></wpt>
-  <wpt lat="38.765920" lon="-120.490180"></wpt>
-  <wpt lat="38.766340" lon="-120.318470"></wpt>
-  <wpt lat="38.806350" lon="-120.123570"></wpt>
-  <wpt lat="38.850953" lon="-120.022180"><name>Meyers</name></wpt>
-  <wpt lat="38.786060" lon="-120.004490"></wpt>
-  <wpt lat="38.787880" lon="-119.946150"></wpt>
-  <wpt lat="38.775200" lon="-119.911140"></wpt>
-  <wpt lat="38.772650" lon="-119.875350"></wpt>
-  <wpt lat="38.774299" lon="-119.821921"><name>Alpine Village</name></wpt>
-  <wpt lat="38.779850" lon="-119.821460"></wpt>
-  <wpt lat="38.785110" lon="-119.815940"></wpt>
-  <wpt lat="38.800460" lon="-119.791280"></wpt>
-  <wpt lat="38.809970" lon="-119.779210"></wpt>
-  <wpt lat="38.910225" lon="-119.779220"><name>Gardnerville_turn</name></wpt>
-  <wpt lat="38.913600" lon="-119.756160"></wpt>
-  <wpt lat="38.913640" lon="-119.733260"></wpt>
-  <wpt lat="38.910510" lon="-119.732400"></wpt>
-  <wpt lat="38.913500" lon="-119.719550"></wpt>
-  <wpt lat="38.915534" lon="-119.715705"><name>Junction 395</name></wpt>
-  <wpt lat="38.881350" lon="-119.689020"></wpt>
-  <wpt lat="38.856660" lon="-119.664900"></wpt>
-  <wpt lat="38.832400" lon="-119.630590"></wpt>
-  <wpt lat="38.790260" lon="-119.597370"></wpt>
-  <wpt lat="38.728064" lon="-119.555363"><name>Jct 208</name></wpt>
-  <wpt lat="38.725940" lon="-119.519720"></wpt>
-  <wpt lat="38.745320" lon="-119.445540"></wpt>
-  <wpt lat="38.762320" lon="-119.405690"></wpt>
-  <wpt lat="38.766760" lon="-119.394380"></wpt>
-  <wpt lat="38.761108" lon="-119.385261"><name>Rosies Place</name></wpt>
-  <wpt lat="38.797100" lon="-119.328900"></wpt>
-  <wpt lat="38.807380" lon="-119.224120"></wpt>
-  <wpt lat="38.822650" lon="-119.203410"></wpt>
-  <wpt lat="38.857300" lon="-119.190990"></wpt>
-  <wpt lat="38.993843" lon="-119.182072"><name>Jct 95</name></wpt>
-  <wpt lat="39.045580" lon="-118.963630"></wpt>
-  <wpt lat="38.953550" lon="-118.830770"></wpt>
-  <wpt lat="38.813140" lon="-118.765780"></wpt>
-  <wpt lat="38.704700" lon="-118.765980"></wpt>
-  <wpt lat="38.648254" lon="-118.755139"><name>Walker Lake</name></wpt>
-  <wpt lat="38.580950" lon="-118.704500"></wpt>
-  <wpt lat="38.550090" lon="-118.463340"></wpt>
-  <wpt lat="38.465860" lon="-118.154080"></wpt>
-  <wpt lat="38.235740" lon="-118.026850"></wpt>
-  <wpt lat="38.027119" lon="-117.890099"><name>Coaldale</name></wpt>
-  <wpt lat="38.019200" lon="-117.768710"></wpt>
-  <wpt lat="38.048640" lon="-117.660310"></wpt>
-  <wpt lat="38.120880" lon="-117.589470"></wpt>
-  <wpt lat="38.114390" lon="-117.373560"></wpt>
-  <wpt lat="38.069211" lon="-117.230586"><name>Tonopah</name></wpt>
+  <metadata><name>Day 1 Sebastopol to Tonopah</name></metadata>
+  <wpt lat="38.3749018" lon="-122.8087704">
+    <name>613 Sparkes Rd</name>
+  </wpt>
+  <wpt lat="38.661954" lon="-120.9371642">
+    <name>Shingle Springs</name>
+  </wpt>
+  <wpt lat="38.8509526" lon="-120.0221797">
+    <name>Meyers</name>
+  </wpt>
+  <wpt lat="38.7742988" lon="-119.821921">
+    <name>Alpine Village</name>
+  </wpt>
+  <wpt lat="38.9102251" lon="-119.7792201">
+    <name>Gardnerville_turn</name>
+  </wpt>
+  <wpt lat="38.9155345" lon="-119.7157054">
+    <name>Junction 395</name>
+  </wpt>
+  <wpt lat="38.7280636" lon="-119.5553629">
+    <name>Jct 208</name>
+  </wpt>
+  <wpt lat="38.7611083" lon="-119.3852615">
+    <name>Rosies Place</name>
+  </wpt>
+  <wpt lat="38.9938434" lon="-119.1820716">
+    <name>Jct 95</name>
+  </wpt>
+  <wpt lat="38.6482535" lon="-118.7551395">
+    <name>Walker Lake</name>
+  </wpt>
+  <wpt lat="38.027119" lon="-117.890099">
+    <name>Coaldale</name>
+  </wpt>
+  <wpt lat="38.069211" lon="-117.2305861">
+    <name>Tonopah</name>
+  </wpt>
   <rte>
-    <name>Day 1 - Sebastopol to Tonopah</name>
-    <rtept lat="38.374902" lon="-122.808770"><name>613 Sparkes Rd</name></rtept>
-    <rtept lat="38.179940" lon="-122.531760"></rtept>
-    <rtept lat="38.163100" lon="-122.208800"></rtept>
-    <rtept lat="38.410200" lon="-121.905180"></rtept>
-    <rtept lat="38.571280" lon="-121.325180"></rtept>
-    <rtept lat="38.661954" lon="-120.937164"><name>Shingle Springs</name></rtept>
-    <rtept lat="38.731450" lon="-120.752690"></rtept>
-    <rtept lat="38.765920" lon="-120.490180"></rtept>
-    <rtept lat="38.766340" lon="-120.318470"></rtept>
-    <rtept lat="38.806350" lon="-120.123570"></rtept>
-    <rtept lat="38.850953" lon="-120.022180"><name>Meyers</name></rtept>
-    <rtept lat="38.786060" lon="-120.004490"></rtept>
-    <rtept lat="38.787880" lon="-119.946150"></rtept>
-    <rtept lat="38.775200" lon="-119.911140"></rtept>
-    <rtept lat="38.772650" lon="-119.875350"></rtept>
-    <rtept lat="38.774299" lon="-119.821921"><name>Alpine Village</name></rtept>
-    <rtept lat="38.779850" lon="-119.821460"></rtept>
-    <rtept lat="38.785110" lon="-119.815940"></rtept>
-    <rtept lat="38.800460" lon="-119.791280"></rtept>
-    <rtept lat="38.809970" lon="-119.779210"></rtept>
-    <rtept lat="38.910225" lon="-119.779220"><name>Gardnerville_turn</name></rtept>
-    <rtept lat="38.913600" lon="-119.756160"></rtept>
-    <rtept lat="38.913640" lon="-119.733260"></rtept>
-    <rtept lat="38.910510" lon="-119.732400"></rtept>
-    <rtept lat="38.913500" lon="-119.719550"></rtept>
-    <rtept lat="38.915534" lon="-119.715705"><name>Junction 395</name></rtept>
-    <rtept lat="38.881350" lon="-119.689020"></rtept>
-    <rtept lat="38.856660" lon="-119.664900"></rtept>
-    <rtept lat="38.832400" lon="-119.630590"></rtept>
-    <rtept lat="38.790260" lon="-119.597370"></rtept>
-    <rtept lat="38.728064" lon="-119.555363"><name>Jct 208</name></rtept>
-    <rtept lat="38.725940" lon="-119.519720"></rtept>
-    <rtept lat="38.745320" lon="-119.445540"></rtept>
-    <rtept lat="38.762320" lon="-119.405690"></rtept>
-    <rtept lat="38.766760" lon="-119.394380"></rtept>
-    <rtept lat="38.761108" lon="-119.385261"><name>Rosies Place</name></rtept>
-    <rtept lat="38.797100" lon="-119.328900"></rtept>
-    <rtept lat="38.807380" lon="-119.224120"></rtept>
-    <rtept lat="38.822650" lon="-119.203410"></rtept>
-    <rtept lat="38.857300" lon="-119.190990"></rtept>
-    <rtept lat="38.993843" lon="-119.182072"><name>Jct 95</name></rtept>
-    <rtept lat="39.045580" lon="-118.963630"></rtept>
-    <rtept lat="38.953550" lon="-118.830770"></rtept>
-    <rtept lat="38.813140" lon="-118.765780"></rtept>
-    <rtept lat="38.704700" lon="-118.765980"></rtept>
-    <rtept lat="38.648254" lon="-118.755139"><name>Walker Lake</name></rtept>
-    <rtept lat="38.580950" lon="-118.704500"></rtept>
-    <rtept lat="38.550090" lon="-118.463340"></rtept>
-    <rtept lat="38.465860" lon="-118.154080"></rtept>
-    <rtept lat="38.235740" lon="-118.026850"></rtept>
-    <rtept lat="38.027119" lon="-117.890099"><name>Coaldale</name></rtept>
-    <rtept lat="38.019200" lon="-117.768710"></rtept>
-    <rtept lat="38.048640" lon="-117.660310"></rtept>
-    <rtept lat="38.120880" lon="-117.589470"></rtept>
-    <rtept lat="38.114390" lon="-117.373560"></rtept>
-    <rtept lat="38.069211" lon="-117.230586"><name>Tonopah</name></rtept>
+    <name>Day 1 Sebastopol to Tonopah</name>
+    <rtept lat="38.3749018" lon="-122.8087704">
+      <name>613 Sparkes Rd</name>
+    </rtept>
+    <rtept lat="38.179940" lon="-122.531760"/>
+    <rtept lat="38.163100" lon="-122.208800"/>
+    <rtept lat="38.410200" lon="-121.905180"/>
+    <rtept lat="38.571280" lon="-121.325180"/>
+    <rtept lat="38.661954" lon="-120.9371642">
+      <name>Shingle Springs</name>
+    </rtept>
+    <rtept lat="38.731450" lon="-120.752690"/>
+    <rtept lat="38.765920" lon="-120.490180"/>
+    <rtept lat="38.766340" lon="-120.318470"/>
+    <rtept lat="38.806350" lon="-120.123570"/>
+    <rtept lat="38.8509526" lon="-120.0221797">
+      <name>Meyers</name>
+    </rtept>
+    <rtept lat="38.786060" lon="-120.004490"/>
+    <rtept lat="38.787880" lon="-119.946150"/>
+    <rtept lat="38.775200" lon="-119.911140"/>
+    <rtept lat="38.772650" lon="-119.875350"/>
+    <rtept lat="38.7742988" lon="-119.821921">
+      <name>Alpine Village</name>
+    </rtept>
+    <rtept lat="38.779850" lon="-119.821460"/>
+    <rtept lat="38.785110" lon="-119.815940"/>
+    <rtept lat="38.800460" lon="-119.791280"/>
+    <rtept lat="38.809970" lon="-119.779210"/>
+    <rtept lat="38.9102251" lon="-119.7792201">
+      <name>Gardnerville_turn</name>
+    </rtept>
+    <rtept lat="38.913600" lon="-119.756160"/>
+    <rtept lat="38.913640" lon="-119.733260"/>
+    <rtept lat="38.910510" lon="-119.732400"/>
+    <rtept lat="38.913500" lon="-119.719550"/>
+    <rtept lat="38.9155345" lon="-119.7157054">
+      <name>Junction 395</name>
+    </rtept>
+    <rtept lat="38.881350" lon="-119.689020"/>
+    <rtept lat="38.856660" lon="-119.664900"/>
+    <rtept lat="38.832400" lon="-119.630590"/>
+    <rtept lat="38.790260" lon="-119.597370"/>
+    <rtept lat="38.7280636" lon="-119.5553629">
+      <name>Jct 208</name>
+    </rtept>
+    <rtept lat="38.725940" lon="-119.519720"/>
+    <rtept lat="38.745320" lon="-119.445540"/>
+    <rtept lat="38.762320" lon="-119.405690"/>
+    <rtept lat="38.766760" lon="-119.394380"/>
+    <rtept lat="38.7611083" lon="-119.3852615">
+      <name>Rosies Place</name>
+    </rtept>
+    <rtept lat="38.797100" lon="-119.328900"/>
+    <rtept lat="38.807380" lon="-119.224120"/>
+    <rtept lat="38.822650" lon="-119.203410"/>
+    <rtept lat="38.857300" lon="-119.190990"/>
+    <rtept lat="38.9938434" lon="-119.1820716">
+      <name>Jct 95</name>
+    </rtept>
+    <rtept lat="39.045580" lon="-118.963630"/>
+    <rtept lat="38.953550" lon="-118.830770"/>
+    <rtept lat="38.813140" lon="-118.765780"/>
+    <rtept lat="38.704700" lon="-118.765980"/>
+    <rtept lat="38.6482535" lon="-118.7551395">
+      <name>Walker Lake</name>
+    </rtept>
+    <rtept lat="38.580950" lon="-118.704500"/>
+    <rtept lat="38.550090" lon="-118.463340"/>
+    <rtept lat="38.465860" lon="-118.154080"/>
+    <rtept lat="38.235740" lon="-118.026850"/>
+    <rtept lat="38.027119" lon="-117.890099">
+      <name>Coaldale</name>
+    </rtept>
+    <rtept lat="38.019200" lon="-117.768710"/>
+    <rtept lat="38.048640" lon="-117.660310"/>
+    <rtept lat="38.120880" lon="-117.589470"/>
+    <rtept lat="38.114390" lon="-117.373560"/>
+    <rtept lat="38.069211" lon="-117.2305861">
+      <name>Tonopah</name>
+    </rtept>
   </rte>
 </gpx>

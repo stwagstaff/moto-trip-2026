@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+  creator="moto-trip-2026"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 2 Seg2 Alamo to Capitol Reef Track</name></metadata>
+  <trk>
+    <name>Day 2 Seg2 Alamo to Capitol Reef Track</name>
+    <trkseg>
+      <trkpt lat="37.364950" lon="-115.163760"/>
+      <trkpt lat="37.368630" lon="-115.159950"/>
+      <trkpt lat="37.790370" lon="-114.407140"/>
+      <trkpt lat="37.789990" lon="-114.287700"/>
+      <trkpt lat="37.724580" lon="-114.040260"/>
+      <trkpt lat="37.680940" lon="-113.058390"/>
+      <trkpt lat="37.677290" lon="-113.052730"/>
+      <trkpt lat="37.589930" lon="-112.881450"/>
+      <trkpt lat="37.571960" lon="-112.842810"/>
+      <trkpt lat="37.647390" lon="-112.434440"/>
+      <trkpt lat="38.297880" lon="-111.418930"/>
+      <trkpt lat="38.083430" lon="-111.126430"/>
+    </trkseg>
+  </trk>
+</gpx>

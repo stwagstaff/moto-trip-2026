@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+  creator="moto-trip-2026"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 2 Seg2 Alamo to Capitol Reef</name></metadata>
+  <wpt lat="37.36495" lon="-115.16376">
+    <name>Alamo NV</name>
+  </wpt>
+  <wpt lat="37.78999" lon="-114.2877">
+    <name>US-93 to NV-319</name>
+  </wpt>
+  <wpt lat="37.68094" lon="-113.05839">
+    <name>Cedar City UT</name>
+  </wpt>
+  <wpt lat="37.58993" lon="-112.88145">
+    <name>UT-14 to UT-148</name>
+  </wpt>
+  <wpt lat="37.64739" lon="-112.43444">
+    <name>US-89 to UT-12</name>
+  </wpt>
+  <wpt lat="38.29788" lon="-111.41893">
+    <name>UT-12 to UT-24</name>
+  </wpt>
+  <wpt lat="38.08343" lon="-111.12643">
+    <name>Capitol Reef NP</name>
+  </wpt>
+</gpx>

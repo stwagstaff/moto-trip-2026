@@ -1,0 +1,82 @@
+{
+  "day": "3",
+  "name": "Capitol Reef to Valley of the Gods",
+  "named_waypoints": [
+    {
+      "name": "Capitol Reef NP",
+      "lat": 38.0834,
+      "lon": -111.1264
+    },
+    {
+      "name": "Hanksville UT",
+      "lat": 38.3699,
+      "lon": -110.7143
+    },
+    {
+      "name": "Natural Bridges area UT",
+      "lat": 37.6014,
+      "lon": -109.9818
+    },
+    {
+      "name": "Valley of the Gods UT",
+      "lat": 37.2261,
+      "lon": -109.9136
+    }
+  ],
+  "intermediate_track_points": {
+    "Capitol Reef NP → Hanksville UT": [
+      {
+        "lat": 38.140699999999995,
+        "lon": -111.04398
+      },
+      {
+        "lat": 38.198,
+        "lon": -110.96156
+      },
+      {
+        "lat": 38.2553,
+        "lon": -110.87913999999999
+      },
+      {
+        "lat": 38.3126,
+        "lon": -110.79672
+      }
+    ],
+    "Hanksville UT → Natural Bridges area UT": [
+      {
+        "lat": 38.2162,
+        "lon": -110.56779999999999
+      },
+      {
+        "lat": 38.0625,
+        "lon": -110.4213
+      },
+      {
+        "lat": 37.9088,
+        "lon": -110.2748
+      },
+      {
+        "lat": 37.7551,
+        "lon": -110.12830000000001
+      }
+    ],
+    "Natural Bridges area UT → Valley of the Gods UT": [
+      {
+        "lat": 37.52634,
+        "lon": -109.96816000000001
+      },
+      {
+        "lat": 37.45128,
+        "lon": -109.95452
+      },
+      {
+        "lat": 37.37622,
+        "lon": -109.94088
+      },
+      {
+        "lat": 37.30116,
+        "lon": -109.92724
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "day": "2 Seg 1",
+  "name": "Tonopah to Alamo (ET Highway)",
+  "named_waypoints": [
+    {
+      "name": "Tonopah NV",
+      "lat": 38.0673,
+      "lon": -117.2307
+    },
+    {
+      "name": "Warm Springs NV",
+      "lat": 38.1686,
+      "lon": -116.3733
+    },
+    {
+      "name": "Rachel NV",
+      "lat": 37.6475,
+      "lon": -115.743
+    },
+    {
+      "name": "Crystal Springs NV",
+      "lat": 37.4433,
+      "lon": -115.1538
+    },
+    {
+      "name": "Alamo NV",
+      "lat": 37.3649,
+      "lon": -115.1638
+    }
+  ],
+  "intermediate_track_points": {
+    "Tonopah NV → Warm Springs NV": [
+      {
+        "lat": 38.08756,
+        "lon": -117.05922
+      },
+      {
+        "lat": 38.107820000000004,
+        "lon": -116.88774
+      },
+      {
+        "lat": 38.12808,
+        "lon": -116.71626
+      },
+      {
+        "lat": 38.14834,
+        "lon": -116.54478
+      }
+    ],
+    "Warm Springs NV → Rachel NV": [
+      {
+        "lat": 38.06438,
+        "lon": -116.24724
+      },
+      {
+        "lat": 37.96016,
+        "lon": -116.12118
+      },
+      {
+        "lat": 37.85594,
+        "lon": -115.99512
+      },
+      {
+        "lat": 37.75172,
+        "lon": -115.86905999999999
+      }
+    ],
+    "Rachel NV → Crystal Springs NV": [
+      {
+        "lat": 37.60666,
+        "lon": -115.62516
+      },
+      {
+        "lat": 37.56582,
+        "lon": -115.50731999999999
+      },
+      {
+        "lat": 37.52498,
+        "lon": -115.38948
+      },
+      {
+        "lat": 37.484140000000004,
+        "lon": -115.27164
+      }
+    ],
+    "Crystal Springs NV → Alamo NV": [
+      {
+        "lat": 37.42762,
+        "lon": -115.1558
+      },
+      {
+        "lat": 37.41194,
+        "lon": -115.1578
+      },
+      {
+        "lat": 37.39626,
+        "lon": -115.1598
+      },
+      {
+        "lat": 37.38058,
+        "lon": -115.1618
+      }
+    ]
+  }
+}

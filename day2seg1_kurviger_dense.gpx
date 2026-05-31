@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+  creator="moto-trip-2026"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 2 Seg1 Tonopah to Alamo ET Hwy</name></metadata>
+  <wpt lat="38.0673" lon="-117.2307">
+    <name>Tonopah NV</name>
+  </wpt>
+  <wpt lat="38.1686" lon="-116.3733">
+    <name>Warm Springs NV</name>
+  </wpt>
+  <wpt lat="37.6475" lon="-115.743">
+    <name>Rachel NV</name>
+  </wpt>
+  <wpt lat="37.4433" lon="-115.1538">
+    <name>Crystal Springs NV</name>
+  </wpt>
+  <wpt lat="37.3649" lon="-115.1638">
+    <name>Alamo NV</name>
+  </wpt>
+  <rte>
+    <name>Day 2 Seg1 Tonopah to Alamo ET Hwy</name>
+    <rtept lat="38.0673" lon="-117.2307">
+      <name>Tonopah NV</name>
+    </rtept>
+    <rtept lat="38.087560" lon="-117.059220"/>
+    <rtept lat="38.107820" lon="-116.887740"/>
+    <rtept lat="38.128080" lon="-116.716260"/>
+    <rtept lat="38.148340" lon="-116.544780"/>
+    <rtept lat="38.1686" lon="-116.3733">
+      <name>Warm Springs NV</name>
+    </rtept>
+    <rtept lat="38.064380" lon="-116.247240"/>
+    <rtept lat="37.960160" lon="-116.121180"/>
+    <rtept lat="37.855940" lon="-115.995120"/>
+    <rtept lat="37.751720" lon="-115.869060"/>
+    <rtept lat="37.6475" lon="-115.743">
+      <name>Rachel NV</name>
+    </rtept>
+    <rtept lat="37.606660" lon="-115.625160"/>
+    <rtept lat="37.565820" lon="-115.507320"/>
+    <rtept lat="37.524980" lon="-115.389480"/>
+    <rtept lat="37.484140" lon="-115.271640"/>
+    <rtept lat="37.4433" lon="-115.1538">
+      <name>Crystal Springs NV</name>
+    </rtept>
+    <rtept lat="37.427620" lon="-115.155800"/>
+    <rtept lat="37.411940" lon="-115.157800"/>
+    <rtept lat="37.396260" lon="-115.159800"/>
+    <rtept lat="37.380580" lon="-115.161800"/>
+    <rtept lat="37.3649" lon="-115.1638">
+      <name>Alamo NV</name>
+    </rtept>
+  </rte>
+</gpx>

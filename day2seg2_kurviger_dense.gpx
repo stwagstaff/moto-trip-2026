@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+  creator="moto-trip-2026"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 2 Seg2 Alamo to Capitol Reef</name></metadata>
+  <wpt lat="37.36495" lon="-115.16376">
+    <name>Alamo NV</name>
+  </wpt>
+  <wpt lat="37.78999" lon="-114.2877">
+    <name>US-93 to NV-319</name>
+  </wpt>
+  <wpt lat="37.68094" lon="-113.05839">
+    <name>Cedar City UT</name>
+  </wpt>
+  <wpt lat="37.58993" lon="-112.88145">
+    <name>UT-14 to UT-148</name>
+  </wpt>
+  <wpt lat="37.64739" lon="-112.43444">
+    <name>US-89 to UT-12</name>
+  </wpt>
+  <wpt lat="38.29788" lon="-111.41893">
+    <name>UT-12 to UT-24</name>
+  </wpt>
+  <wpt lat="38.08343" lon="-111.12643">
+    <name>Capitol Reef NP</name>
+  </wpt>
+  <rte>
+    <name>Day 2 Seg2 Alamo to Capitol Reef</name>
+    <rtept lat="37.36495" lon="-115.16376">
+      <name>Alamo NV</name>
+    </rtept>
+    <rtept lat="37.449958" lon="-114.988548"/>
+    <rtept lat="37.534966" lon="-114.813336"/>
+    <rtept lat="37.619974" lon="-114.638124"/>
+    <rtept lat="37.704982" lon="-114.462912"/>
+    <rtept lat="37.78999" lon="-114.2877">
+      <name>US-93 to NV-319</name>
+    </rtept>
+    <rtept lat="37.768180" lon="-114.041838"/>
+    <rtept lat="37.746370" lon="-113.795976"/>
+    <rtept lat="37.724560" lon="-113.550114"/>
+    <rtept lat="37.702750" lon="-113.304252"/>
+    <rtept lat="37.68094" lon="-113.05839">
+      <name>Cedar City UT</name>
+    </rtept>
+    <rtept lat="37.662738" lon="-113.023002"/>
+    <rtept lat="37.644536" lon="-112.987614"/>
+    <rtept lat="37.626334" lon="-112.952226"/>
+    <rtept lat="37.608132" lon="-112.916838"/>
+    <rtept lat="37.58993" lon="-112.88145">
+      <name>UT-14 to UT-148</name>
+    </rtept>
+    <rtept lat="37.601422" lon="-112.792048"/>
+    <rtept lat="37.612914" lon="-112.702646"/>
+    <rtept lat="37.624406" lon="-112.613244"/>
+    <rtept lat="37.635898" lon="-112.523842"/>
+    <rtept lat="37.64739" lon="-112.43444">
+      <name>US-89 to UT-12</name>
+    </rtept>
+    <rtept lat="37.777488" lon="-112.231338"/>
+    <rtept lat="37.907586" lon="-112.028236"/>
+    <rtept lat="38.037684" lon="-111.825134"/>
+    <rtept lat="38.167782" lon="-111.622032"/>
+    <rtept lat="38.29788" lon="-111.41893">
+      <name>UT-12 to UT-24</name>
+    </rtept>
+    <rtept lat="38.254990" lon="-111.360430"/>
+    <rtept lat="38.212100" lon="-111.301930"/>
+    <rtept lat="38.169210" lon="-111.243430"/>
+    <rtept lat="38.126320" lon="-111.184930"/>
+    <rtept lat="38.08343" lon="-111.12643">
+      <name>Capitol Reef NP</name>
+    </rtept>
+  </rte>
+</gpx>

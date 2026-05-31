@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1"
+  creator="moto-trip-2026"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 3 Capitol Reef to Valley of the Gods Track</name></metadata>
+  <trk>
+    <name>Day 3 Capitol Reef to Valley of the Gods Track</name>
+    <trkseg>
+      <trkpt lat="38.083400" lon="-111.126400"/>
+      <trkpt lat="38.369900" lon="-110.714300"/>
+      <trkpt lat="37.601400" lon="-109.981800"/>
+      <trkpt lat="37.226100" lon="-109.913600"/>
+    </trkseg>
+  </trk>
+</gpx>
