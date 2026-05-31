@@ -48,17 +48,6 @@
   </style>
 
   <script>
-  function openWaze(lat, lon) {
-    var app = "waze://?ll=" + lat + "," + lon + "&navigate=yes";
-    var web = "https://waze.com/ul?ll=" + lat + "," + lon + "&navigate=yes";
-    var start = Date.now();
-    window.location = app;
-    setTimeout(function() {
-      if (Date.now() - start < 2000) {
-        window.location = web;
-      }
-    }, 1500);
-  }
   function downloadFile(url, filename) {
     fetch(url)
       .then(r => r.blob())
@@ -97,9 +86,9 @@
       <p class="fuel">⛽ <strong>Fuel:</strong> Fallon NV · Hawthorne NV</p>
       <p class="hazards">⚠️ <strong>Hazards:</strong> Hawthorne: speed enforcement · Tonopah: speed drops through town</p>
       <div class="links">
-        <a href="intent:https://raw.githubusercontent.com/stwagstaff/moto-trip-2026/main/day1_sebastopol_to_tonopah.gpx#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link" style="background:#1565c0;">📍 Calimoto</a>
+        <a href="intent:https://stwagstaff.github.io/moto-trip-2026/day1_sebastopol_to_tonopah.gpx#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link" style="background:#1565c0;">📍 Calimoto</a>
         <a href="https://www.google.com/maps/dir/?api=1&origin=Sebastopol%2C%20CA&destination=Tonopah%2C%20NV&waypoints=Fallon%2C%20NV%7CHawthorne%2C%20NV&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
-        <a href="#" onclick="openWaze(38.0673,-117.2307);return false;" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+        <a href="waze://?ll=38.0673,-117.2307&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
         <a href="#" onclick="downloadFile('day1_sebastopol_to_tonopah.gpx','day1_sebastopol_to_tonopah.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.9rem;padding:13px 18px;">⬇ Download GPX / KML<span style='font-size:0.72rem;font-weight:400;opacity:0.75;display:block;margin-top:3px;'>Tap to download · open from Files app in Kurviger, Garmin or onX</span></a>
       </div>
     </div>
@@ -121,9 +110,9 @@
       <p class="fuel">⛽ <strong>Fuel:</strong> ⚠️ FILL UP IN TONOPAH — 161mi gap, Rachel unreliable</p>
       <p class="hazards">⚠️ <strong>Hazards:</strong> NV-375: free-range cattle at dawn/dusk · US-93 near Alamo: fresh chip seal</p>
       <div class="links">
-        <a href="intent:https://raw.githubusercontent.com/stwagstaff/moto-trip-2026/main/day2_tonopah_to_alamo_et_highway.gpx#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link" style="background:#1565c0;">📍 Calimoto</a>
+        <a href="intent:https://stwagstaff.github.io/moto-trip-2026/day2_tonopah_to_alamo_et_highway.gpx#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link" style="background:#1565c0;">📍 Calimoto</a>
         <a href="https://www.google.com/maps/dir/?api=1&origin=Tonopah%2C%20NV&destination=Alamo%2C%20NV&waypoints=Rachel%2C%20NV&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
-        <a href="#" onclick="openWaze(37.3649,-115.1638);return false;" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+        <a href="waze://?ll=37.3649,-115.1638&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
         <a href="#" onclick="downloadFile('day2_tonopah_to_alamo_et_highway.gpx','day2_tonopah_to_alamo_et_highway.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.9rem;padding:13px 18px;">⬇ Download GPX / KML<span style='font-size:0.72rem;font-weight:400;opacity:0.75;display:block;margin-top:3px;'>Tap to download · open from Files app in Kurviger, Garmin or onX</span></a>
       </div>
     </div>
@@ -153,11 +142,11 @@
       <p class="fuel">⛽ <strong>Fuel:</strong> Caliente NV · Cedar City UT · Panguitch UT · Torrey UT</p>
       <p class="hazards">⚠️ <strong>Hazards:</strong> Cedar City: UT-14 EAST not I-15 · UT-12 winding mountain · UT-24 construction Mon-Fri 7AM-6PM</p>
       <div class="links">
-        <a href="intent:https://raw.githubusercontent.com/stwagstaff/moto-trip-2026/main/day3_alamo_to_capitol_reef.gpx#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link" style="background:#1565c0;">📍 Calimoto — full route</a>
+        <a href="intent:https://stwagstaff.github.io/moto-trip-2026/day3_alamo_to_capitol_reef_calimoto.gpx#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link" style="background:#1565c0;">📍 Calimoto — full route</a>
         <a href="https://www.google.com/maps/dir/37.36495,-115.16376/37.36863,-115.15995/37.79037,-114.40714/37.78999,-114.2877/37.72458,-114.04026/37.68094,-113.05839/37.67729,-113.05273/37.58993,-112.88145/37.57196,-112.84281/37.64739,-112.43444/38.29788,-111.41893/38.08343,-111.12643" class="nav-link" style="background:#37474f;">🗺 Overview — all waypoints</a>
         <a href="https://www.google.com/maps/dir/?api=1&origin=37.36495%2C-115.16376&destination=37.58993%2C-112.88145&waypoints=37.36863%2C-115.15995%7C37.79037%2C-114.40714%7C37.78999%2C-114.2877%7C37.72458%2C-114.04026%7C37.68094%2C-113.05839%7C37.67729%2C-113.05273&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Segment 1 — Alamo → UT-14</a>
         <a href="https://www.google.com/maps/dir/?api=1&origin=37.58993%2C-112.88145&destination=38.08343%2C-111.12643&waypoints=37.57196%2C-112.84281%7C37.64739%2C-112.43444%7C38.29788%2C-111.41893&travelmode=driving" class="nav-link" style="background:#00695c;">🗺 Segment 2 — UT-14 → Capitol Reef</a>
-        <a href="#" onclick="openWaze(38.08343,-111.12643);return false;" class="nav-link" style="background:#6a1b9a;">🚨 Waze — destination</a>
+        <a href="waze://?ll=38.08343,-111.12643&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze — destination</a>
         <a href="https://www.google.com/maps/d/viewer?mid=1RwIcTOuqK5uFqpWso-GRknBuikj8FQY" class="nav-link" style="background:#4527a0;">🗺 Ben's Original KML Map</a>
         <a href="#" onclick="downloadFile('day3_alamo_to_capitol_reef_kurviger.gpx','day3_alamo_to_capitol_reef_kurviger.gpx');return false;" class="nav-link" style="background:#1b2838;font-size:0.9rem;padding:13px 18px;">⬇ Download GPX / KML — Kurviger · Garmin · onX<span style='font-size:0.72rem;font-weight:400;opacity:0.75;display:block;margin-top:3px;'>Tap to download GPX · or <a href='#' onclick="downloadFile('day3_alamo_to_capitol_reef_onx.kml','day3_alamo_to_capitol_reef_onx.kml');return false;" style='color:#8bc34a;'>tap for KML (onX Web Map)</a>
         <a href="#" onclick="downloadFile('day3_alamo_to_capitol_reef_onx.gpx','day3_alamo_to_capitol_reef_onx.gpx');return false;" class="nav-link" style="background:#1a3a1a;font-size:0.9rem;padding:13px 18px;">⬇ GPX — onX Offroad (full track)<span style='font-size:0.72rem;font-weight:400;opacity:0.75;display:block;margin-top:3px;'>Full KML→GPX conversion · 11,951 track points · My Content → Import in onX</span></a></span></a>
@@ -181,9 +170,9 @@
       <p class="fuel">⛽ <strong>Fuel:</strong> Hanksville UT — LAST fuel before remote UT-95</p>
       <p class="hazards">⚠️ <strong>Hazards:</strong> Moki Dugway (UT-261): 3mi unpaved switchbacks, IMPASSABLE WET · Valley of Gods: 17mi gravel, dry only</p>
       <div class="links">
-        <a href="intent:https://raw.githubusercontent.com/stwagstaff/moto-trip-2026/main/day4_capitol_reef_to_valley_of_gods.gpx#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link" style="background:#1565c0;">📍 Calimoto</a>
+        <a href="intent:https://stwagstaff.github.io/moto-trip-2026/day4_capitol_reef_to_valley_of_gods.gpx#Intent;scheme=https;type=application%2Fgpx%2Bxml;package=com.calimoto.calimoto;end" class="nav-link" style="background:#1565c0;">📍 Calimoto</a>
         <a href="https://www.google.com/maps/dir/?api=1&origin=Capitol%20Reef%20National%20Park%2C%20Utah&destination=Valley%20of%20the%20Gods%2C%20UT&waypoints=Hanksville%2C%20UT&travelmode=driving" class="nav-link" style="background:#00796b;">🗺 Google Maps</a>
-        <a href="#" onclick="openWaze(37.2261,-109.9136);return false;" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
+        <a href="waze://?ll=37.2261,-109.9136&navigate=yes" class="nav-link" style="background:#6a1b9a;">🚨 Waze</a>
         <a href="#" onclick="downloadFile('day4_capitol_reef_to_valley_of_gods.gpx','day4_capitol_reef_to_valley_of_gods.gpx');return false;" class="nav-link" style="background:#263238;font-size:0.9rem;padding:13px 18px;">⬇ Download GPX / KML<span style='font-size:0.72rem;font-weight:400;opacity:0.75;display:block;margin-top:3px;'>Tap to download · open from Files app in Kurviger, Garmin or onX</span></a>
       </div>
     </div>
