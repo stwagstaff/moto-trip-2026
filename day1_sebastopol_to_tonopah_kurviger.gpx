@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="HermesMotoTrip" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Day 1 - Sebastopol to Tonopah</name><desc>US-101 S, I-80 E, US-50 E via South Lake Tahoe, US-395 S, US-95 S to Tonopah. 435mi ~7.5h.</desc></metadata>
-  <wpt lat="38.37472" lon="-122.80882"><name>Sebastopol</name></wpt>
-  <wpt lat="38.1072" lon="-122.55271"><name>US-101 S Novato</name></wpt>
-  <wpt lat="38.35996" lon="-122.00242"><name>I-80 E Vacaville</name></wpt>
-  <wpt lat="38.55099" lon="-121.42999"><name>Sacramento</name></wpt>
-  <wpt lat="38.66164" lon="-120.93963"><name>US-50 E Shingle Springs</name></wpt>
-  <wpt lat="38.82256" lon="-120.03917"><name>South Lake Tahoe</name></wpt>
-  <wpt lat="38.78602" lon="-120.00488"><name>US-395 S Minden NV</name></wpt>
-  <wpt lat="38.68252" lon="-118.77405"><name>US-95 S Hawthorne NV</name></wpt>
-  <wpt lat="38.07059" lon="-117.23251"><name>Tonopah NV</name></wpt>
-  <rte><name>Day 1 - Sebastopol to Tonopah</name>
-  <rtept lat="38.37472" lon="-122.80882"><name>Sebastopol</name></rtept>
-  <rtept lat="38.1072" lon="-122.55271"><name>US-101 S Novato</name></rtept>
-  <rtept lat="38.35996" lon="-122.00242"><name>I-80 E Vacaville</name></rtept>
-  <rtept lat="38.55099" lon="-121.42999"><name>Sacramento</name></rtept>
-  <rtept lat="38.66164" lon="-120.93963"><name>US-50 E Shingle Springs</name></rtept>
-  <rtept lat="38.82256" lon="-120.03917"><name>South Lake Tahoe</name></rtept>
-  <rtept lat="38.78602" lon="-120.00488"><name>US-395 S Minden NV</name></rtept>
-  <rtept lat="38.68252" lon="-118.77405"><name>US-95 S Hawthorne NV</name></rtept>
-  <rtept lat="38.07059" lon="-117.23251"><name>Tonopah NV</name></rtept>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 1 - Sebastopol to Tonopah</name><desc>US-101 S, I-80 E, US-50 E via Meyers, US-395 S, US-95 S to Tonopah. 435mi ~7.5h.</desc><time>2026-05-31T18:22:37Z</time></metadata>
+  <wpt lat="38.3749018" lon="-122.8087704"><name>613 Sparkes Rd</name></wpt>
+  <wpt lat="38.661954" lon="-120.9371642"><name>Shingle Springs</name></wpt>
+  <wpt lat="38.8509526" lon="-120.0221797"><name>Meyers</name></wpt>
+  <wpt lat="38.7742988" lon="-119.821921"><name>Alpine Village</name></wpt>
+  <wpt lat="38.7611083" lon="-119.3852615"><name>Rosie's Place</name></wpt>
+  <wpt lat="38.6482535" lon="-118.7551395"><name>Walker Lake</name></wpt>
+  <wpt lat="38.069211" lon="-117.2305861"><name>Tonopah</name></wpt>
+  <rte>
+    <name>Day 1 - Sebastopol to Tonopah</name>
+    <rtept lat="38.3749018" lon="-122.8087704"><name>613 Sparkes Rd</name></rtept>
+    <rtept lat="38.661954" lon="-120.9371642"><name>Shingle Springs</name></rtept>
+    <rtept lat="38.8509526" lon="-120.0221797"><name>Meyers</name></rtept>
+    <rtept lat="38.7742988" lon="-119.821921"><name>Alpine Village</name></rtept>
+    <rtept lat="38.7611083" lon="-119.3852615"><name>Rosie's Place</name></rtept>
+    <rtept lat="38.6482535" lon="-118.7551395"><name>Walker Lake</name></rtept>
+    <rtept lat="38.069211" lon="-117.2305861"><name>Tonopah</name></rtept>
   </rte>
 </gpx>
