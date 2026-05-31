@@ -3,27 +3,39 @@
   xmlns="http://www.topografix.com/GPX/1/1"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>Day 1 - Sebastopol to Tonopah</name><desc>US-101 S, I-80 E, US-50 E, sharp right Meyers, US-395 S, US-95 S to Tonopah.</desc><time>2026-05-31T18:53:23Z</time></metadata>
+  <metadata><name>Day 1 - Sebastopol to Tonopah</name><desc>US-101 S, I-80 E, US-50 E, sharp right Meyers, US-395 S, US-95 S to Tonopah.</desc><time>2026-05-31T18:56:36Z</time></metadata>
   <rte>
     <name>Day 1 - Sebastopol to Tonopah</name>
     <rtept lat="38.374902" lon="-122.808770"><name>613 Sparkes Rd</name></rtept>
-    <rtept lat="38.142050" lon="-122.252400"><name>trk01</name></rtept>
-    <rtept lat="38.532170" lon="-121.745390"><name>trk02</name></rtept>
+    <rtept lat="38.179940" lon="-122.531760"><name>trk01</name></rtept>
+    <rtept lat="38.163100" lon="-122.208800"><name>trk02</name></rtept>
+    <rtept lat="38.410200" lon="-121.905180"><name>trk03</name></rtept>
+    <rtept lat="38.571280" lon="-121.325180"><name>trk04</name></rtept>
     <rtept lat="38.661954" lon="-120.937164"><name>Shingle Springs</name></rtept>
-    <rtept lat="38.764630" lon="-120.550520"><name>trk11</name></rtept>
-    <rtept lat="38.778040" lon="-120.259070"><name>trk12</name></rtept>
+    <rtept lat="38.731450" lon="-120.752690"><name>trk11</name></rtept>
+    <rtept lat="38.765920" lon="-120.490180"><name>trk12</name></rtept>
+    <rtept lat="38.766340" lon="-120.318470"><name>trk13</name></rtept>
+    <rtept lat="38.806350" lon="-120.123570"><name>trk14</name></rtept>
     <rtept lat="38.850953" lon="-120.022180"><name>Meyers</name></rtept>
-    <rtept lat="38.797320" lon="-119.968620"><name>trk21</name></rtept>
-    <rtept lat="38.775900" lon="-119.895990"><name>trk22</name></rtept>
+    <rtept lat="38.786060" lon="-120.004490"><name>trk21</name></rtept>
+    <rtept lat="38.787880" lon="-119.946150"><name>trk22</name></rtept>
+    <rtept lat="38.775200" lon="-119.911140"><name>trk23</name></rtept>
+    <rtept lat="38.772650" lon="-119.875350"><name>trk24</name></rtept>
     <rtept lat="38.774299" lon="-119.821921"><name>Alpine Village</name></rtept>
-    <rtept lat="38.915590" lon="-119.715900"><name>trk31</name></rtept>
-    <rtept lat="38.788860" lon="-119.596110"><name>trk32</name></rtept>
+    <rtept lat="38.910360" lon="-119.779040"><name>trk31</name></rtept>
+    <rtept lat="38.890410" lon="-119.698320"><name>trk32</name></rtept>
+    <rtept lat="38.822930" lon="-119.623150"><name>trk33</name></rtept>
+    <rtept lat="38.728990" lon="-119.510580"><name>trk34</name></rtept>
     <rtept lat="38.761108" lon="-119.385261"><name>Rosies Place</name></rtept>
-    <rtept lat="38.835250" lon="-119.190720"><name>trk41</name></rtept>
-    <rtept lat="38.963310" lon="-118.844000"><name>trk42</name></rtept>
+    <rtept lat="38.810730" lon="-119.219580"><name>trk41</name></rtept>
+    <rtept lat="38.897420" lon="-119.187820"><name>trk42</name></rtept>
+    <rtept lat="39.022480" lon="-118.901400"><name>trk43</name></rtept>
+    <rtept lat="38.795910" lon="-118.757670"><name>trk44</name></rtept>
     <rtept lat="38.648254" lon="-118.755139"><name>Walker Lake</name></rtept>
-    <rtept lat="38.535550" lon="-118.319350"><name>trk51</name></rtept>
-    <rtept lat="38.152670" lon="-117.948030"><name>trk52</name></rtept>
+    <rtept lat="38.531650" lon="-118.611360"><name>trk51</name></rtept>
+    <rtept lat="38.499940" lon="-118.173800"><name>trk52</name></rtept>
+    <rtept lat="38.220270" lon="-118.008770"><name>trk53</name></rtept>
+    <rtept lat="38.035110" lon="-117.690170"><name>trk54</name></rtept>
     <rtept lat="38.069211" lon="-117.230586"><name>Tonopah</name></rtept>
   </rte>
 </gpx>
