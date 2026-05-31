@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creator="HermesMotoTrip" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata><name>Day 1 - Sebastopol to Tonopah</name><desc>US-101 S, I-80 E, US-50 E via South Lake Tahoe, US-395 S, US-95 S to Tonopah. 435mi ~7.5h.</desc></metadata>
+  <wpt lat="38.37472" lon="-122.80882"><name>Sebastopol</name></wpt>
+  <wpt lat="38.1072" lon="-122.55271"><name>US-101 S Novato</name></wpt>
+  <wpt lat="38.35996" lon="-122.00242"><name>I-80 E Vacaville</name></wpt>
+  <wpt lat="38.55099" lon="-121.42999"><name>Sacramento</name></wpt>
+  <wpt lat="38.66164" lon="-120.93963"><name>US-50 E Shingle Springs</name></wpt>
+  <wpt lat="38.82256" lon="-120.03917"><name>South Lake Tahoe</name></wpt>
+  <wpt lat="38.78602" lon="-120.00488"><name>US-395 S Minden NV</name></wpt>
+  <wpt lat="38.68252" lon="-118.77405"><name>US-95 S Hawthorne NV</name></wpt>
+  <wpt lat="38.07059" lon="-117.23251"><name>Tonopah NV</name></wpt>
   <rte><name>Day 1 - Sebastopol to Tonopah</name>
   <rtept lat="38.37472" lon="-122.80882"><name>Sebastopol</name></rtept>
   <rtept lat="38.1072" lon="-122.55271"><name>US-101 S Novato</name></rtept>
