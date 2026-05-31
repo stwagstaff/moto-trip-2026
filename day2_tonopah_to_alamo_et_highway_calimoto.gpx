@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="HermesMotoTrip" xmlns="http://www.topografix.com/GPX/1/1">
-  <metadata><name>Day 2 Seg 1 - Tonopah to Alamo ET Highway</name><desc>US-6 E to Warm Springs, NV-375 S Extraterrestrial Highway through Rachel, US-93 S to Alamo. 161mi.</desc></metadata>
-  <rte><name>Day 2 Seg 1 - Tonopah to Alamo ET Highway</name>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 2 Seg 1 - Tonopah to Alamo ET Highway</name><desc>US-6 E to Warm Springs, NV-375 S Extraterrestrial Highway through Rachel, US-93 S to Alamo. 161mi.</desc><time>2026-05-31T17:54:42Z</time></metadata>
+  <rte>
+    <name>Day 2 Seg 1 - Tonopah to Alamo ET Highway</name>
   <rtept lat="38.06921" lon="-117.23059"><name>Tonopah NV</name></rtept>
   <rtept lat="38.1682" lon="-116.3772"><name>Warm Springs NV</name></rtept>
   <rtept lat="37.6483" lon="-115.7389"><name>Rachel NV</name></rtept>
