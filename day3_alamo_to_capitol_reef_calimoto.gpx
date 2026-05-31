@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="HermesMotoTrip"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 3 - Alamo NV to Capitol Reef NP</name><desc>US-93 N through Caliente and Panaca, NV-319 to Utah, UT-56 to Cedar City, UT-14 E through Dixie National Forest, US-89 N, UT-12 E scenic byway, UT-24 W to Capitol Reef NP. 369 miles.</desc><time>2026-05-31T14:51:17Z</time></metadata>
+  <rte>
+    <name>Day 3 - Alamo NV to Capitol Reef NP</name>
+  <rtept lat="37.36495" lon="-115.16376"><name>Start - Alamo NV</name></rtept>
+  <rtept lat="37.36863" lon="-115.15995"><name>Broadway St to US-93 N</name></rtept>
+  <rtept lat="37.79037" lon="-114.40714"><name>US-93 N to US-93 E</name></rtept>
+  <rtept lat="37.78999" lon="-114.2877"><name>US-93 E to NV-319 E</name></rtept>
+  <rtept lat="37.72458" lon="-114.04026"><name>NV-319 to UT-56</name></rtept>
+  <rtept lat="37.68094" lon="-113.05839"><name>UT-56 to N Main St</name></rtept>
+  <rtept lat="37.67729" lon="-113.05273"><name>N Main St to UT-14 E</name></rtept>
+  <rtept lat="37.58993" lon="-112.88145"><name>UT-14 E to UT-148 N</name></rtept>
+  <rtept lat="37.57196" lon="-112.84281"><name>UT-148 N to US-89 N</name></rtept>
+  <rtept lat="37.64739" lon="-112.43444"><name>US-89 N to UT-12 E</name></rtept>
+  <rtept lat="38.29788" lon="-111.41893"><name>UT-12 E to UT-24 W</name></rtept>
+  <rtept lat="38.08343" lon="-111.12643"><name>End - Capitol Reef NP</name></rtept>
+  </rte>
+</gpx>
