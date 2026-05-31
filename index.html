@@ -35,6 +35,14 @@
     .monitoring h3 { color: #e74c3c; margin-bottom: 9px; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; }
     .monitoring p { margin-bottom: 5px; }
     .monitoring a { color: #3498db; text-decoration: none; }
+
+    .upload-section { margin: 16px; padding: 16px; background: #1a1a2e; border-radius: 12px; border: 2px solid #e74c3c; }
+    .upload-section h3 { color: #e74c3c; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; }
+    .upload-section p { font-size: 0.86rem; color: #aaa; margin-bottom: 8px; line-height: 1.6; }
+    .upload-hint { color: #666 !important; font-style: italic; font-size: 0.8rem !important; }
+    .upload-link { display: block; margin-top: 14px; padding: 16px 18px; background: #0088cc; border-radius: 10px; font-size: 1rem; font-weight: 700; text-decoration: none; text-align: center; color: #fff; }
+    .upload-link span { display: block; font-size: 0.75rem; font-weight: 400; opacity: 0.85; margin-top: 4px; }
+    .upload-link:active { opacity: 0.8; transform: scale(0.98); }
     footer { text-align: center; padding: 18px; font-size: 0.7rem; color: #333; }
     footer a { color: #333; text-decoration: none; }
   </style>
@@ -160,6 +168,17 @@
   <p><a href="https://share.garmin.com/KQYZ8">MapShare: share.garmin.com/KQYZ8</a></p>
   <p style="margin-top:9px;color:#555;">On ride day: send Hermes your location via Telegram for live-start links.</p>
 </section>
+
+  <section class="upload-section">
+    <h3>➕ Add a New Route</h3>
+    <p>Export a GPX from Garmin, Kurviger, or any GPS app and send it to the trip bot with a description. The page updates automatically within minutes.</p>
+    <p class="upload-hint">Include any notes with the file — e.g. "This is an offroad section after mile marker X" or "Replace Day 3 segment 2".</p>
+    <a href="https://t.me/StwagstaffBot?start=newroute" class="upload-link">
+      📎 Send me a new map
+      <span>Opens Telegram → attach your GPX file + add instructions</span>
+    </a>
+  </section>
+
 <footer><a href="https://github.com/stwagstaff/moto-trip-2026">stwagstaff/moto-trip-2026</a></footer>
 </body>
 </html>
